@@ -1,0 +1,18 @@
+@font-face{
+    font-family: 'BallparkWeiner';
+    src: url('polices/ballpark.eot');
+    src: url('polices/ballpark.eot'),
+         url('polices/ballpark.woff'),
+         url('polices/ballpark.ttf'),
+         url('polices/ballpark.svg');
+}
+
+@font-face{
+    font-family: 'Dayrom';
+    src: url('polices/dayrom.eot');
+    src: url('polices/dayrom.eot'),
+         url('polices/dayrom.woff'),
+         url('polices/dayrom.ttf'),
+         url('polices/dayrom.svg');
+}
+
