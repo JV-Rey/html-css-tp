@@ -16,3 +16,48 @@
          url('polices/dayrom.svg');
 }
 
+body{
+    background: url('images/fond_jaune.png');
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    width: 900px;
+    margin: auto;
+}
+
+#nav_ul{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav_li{
+    margin: 5px;
+}
+
+section{
+    display: flex;
+    word-break: break-all;
+}
+
+article, aside{
+    text-align: justify;
+    margin-right: 25px;
+}
+
+article{
+    width: 800px;
+}
+
+aside{
+    margin-right: 5px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+#liste{
+    display: flex;
+    justify-content: space-between;
+    list-style-image: url(images/ico_liensexterne.png);   
+}
